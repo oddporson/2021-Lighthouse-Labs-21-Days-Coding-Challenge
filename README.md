@@ -22,3 +22,4 @@ This repository stores all the code I wrote for the challenges given during the 
 - [Challenge #6 - Another day, another challenge](https://coding-challenge.lighthouselabs.ca/challenge/6)
 - [Challenge #7 - It’s a bird! It’s a plane!](https://coding-challenge.lighthouselabs.ca/challenge/7)
 - [Challenge #8 - It’s all part of the job](https://coding-challenge.lighthouselabs.ca/challenge/8)
+- [Challenge #9 - Media mania!](https://coding-challenge.lighthouselabs.ca/challenge/9)

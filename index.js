@@ -6,6 +6,7 @@ const addJobToAstronaut                 = require('./challenge-5');
 const addAstronautToRoster              = require('./challenge-6');
 const storeWeatherConditions            = require('./challenge-7');
 const countActiveAstronauts             = require('./challenge-8');
+const listAstronautJobs                 = require('./challenge-9');
 
 
 
@@ -18,5 +19,6 @@ module.exports = {
   addJobToAstronaut,
   addAstronautToRoster,
   storeWeatherConditions,
-  countActiveAstronauts
+  countActiveAstronauts,
+  listAstronautJobs
 };
