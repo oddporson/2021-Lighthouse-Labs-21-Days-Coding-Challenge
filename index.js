@@ -4,6 +4,7 @@ const checkGaugeStatus                  = require('./challenge-3');
 const switchToggle                      = require('./challenge-4');
 const addJobToAstronaut                 = require('./challenge-5');
 const addAstronautToRoster              = require('./challenge-6');
+const storeWeatherConditions            = require('./challenge-7');
 
 
 
@@ -14,5 +15,6 @@ module.exports = {
   checkGaugeStatus,
   switchToggle,
   addJobToAstronaut,
-  addAstronautToRoster
+  addAstronautToRoster,
+  storeWeatherConditions,
 };
