@@ -19,3 +19,4 @@ This repository stores all the code I wrote for the challenges given during the 
 - [Challenge #3 - What’s in the box?](https://coding-challenge.lighthouselabs.ca/challenge/3)
 - [Challenge #4 - Hope you’re not afraid of the dark...](https://coding-challenge.lighthouselabs.ca/challenge/4)
 - [Challenge #5 - You get a job, she gets a job, he gets a job](https://coding-challenge.lighthouselabs.ca/challenge/5)
+- [Challenge #6 - Another day, another challenge](https://coding-challenge.lighthouselabs.ca/challenge/6)
