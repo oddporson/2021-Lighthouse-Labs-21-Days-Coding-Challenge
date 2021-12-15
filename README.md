@@ -2,6 +2,8 @@
 
 This repository stores all the code I wrote for the challenges given during the [21-Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/) presented by [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
+![Spell by LHL](https://raw.githubusercontent.com/oddporson/2021-Lighthouse-Labs-21-Days-Coding-Challenge/main/src/SPELL-LHL.png "SPELL by LHL")
+
 ## Technologies
 
 ---
