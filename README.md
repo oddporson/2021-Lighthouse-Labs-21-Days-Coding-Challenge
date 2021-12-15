@@ -34,3 +34,4 @@ This repository stores all the code I wrote for the challenges given during the 
 - [Challenge #18 - Bon Appetit](https://coding-challenge.lighthouselabs.ca/challenge/18)
 - [Challenge #19 - It's Pumpkin Spice Time](https://coding-challenge.lighthouselabs.ca/challenge/19)
 - [Challenge #20 - Incoming Task: Confirm Re-Entry!](https://coding-challenge.lighthouselabs.ca/challenge/20)
+- [Challenge #21 - 21 Challenges Later](https://coding-challenge.lighthouselabs.ca/challenge/21)

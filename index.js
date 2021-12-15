@@ -18,6 +18,7 @@ const switchSpecificToggle      = require('./challenge-17');
 const chooseLunchWinner         = require('./challenge-18');
 const organizeData              = require('./challenge-19');
 const confirmReentryPlans       = require('./challenge-20');
+const parseMissionSummary       = require('./challenge-21');
 
 module.exports = {
   parseMessage,
@@ -39,5 +40,6 @@ module.exports = {
   switchSpecificToggle,
   chooseLunchWinner,
   organizeData,
-  confirmReentryPlans
+  confirmReentryPlans,
+  parseMissionSummary
 };
